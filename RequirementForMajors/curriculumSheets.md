@@ -11,6 +11,6 @@ This file has web links to curriculum sheets within this folder.
 
 [`BS Data Science and Analytics`](https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/bsdsa-2023.pdf){:target="_blank"} <br>
 
-[`BS Applied Science in Information Technology`]<a href="https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/basit-2023.pdf"></a>
+<a href="https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/basit-2023.pdf">[`BS Applied Science in Information Technology`]</a>
 
 <!-- (https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/basit-2023.pdf) -->
