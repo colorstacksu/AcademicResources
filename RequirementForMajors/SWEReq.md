@@ -1,0 +1,1 @@
+[Software Engineering](https://github.com/colorstacksu/AcademicResources/blob/main/RequirementForMajors/bsswe-2023.pdf)
