@@ -1,1 +1,1 @@
-<embed>https://github.com/colorstacksu/AcademicResources/blob/main/RequirementForMajors/bsswe-2023.pdf</embed>
+<embed>https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/bsswe-2023.pdf</embed>
