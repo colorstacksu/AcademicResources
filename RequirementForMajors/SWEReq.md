@@ -1,1 +1,1 @@
-[embed]https://github.com/colorstacksu/AcademicResources/blob/main/RequirementForMajors/bsswe-2023.pdf[/embed]
+<embed>https://github.com/colorstacksu/AcademicResources/blob/main/RequirementForMajors/bsswe-2023.pdf</embed>
