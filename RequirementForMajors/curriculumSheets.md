@@ -1,5 +1,5 @@
 ## Curriculum Sheets
-This file has web links to curriculum sheets within this folder.
+This file has web links to curriculum sheets within this folder:
 
 [`BS Computer Science`](https://www.kennesaw.edu/ccse/advising/resources/docs/curriculum-sheets/bscs-2023.pdf) <br>
 
