@@ -6,8 +6,8 @@ Here, you can find recommended courses and their respective lecturers for your m
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
+| COMM 1100      | Human Communication   | None | Gina Castle  | Easy     | Fall & Spring       | You can pass this class with your eyes closed. Final Exam is multiple choice and you get 2 tries  |
+| TCOM      | Technical Writing   | None | Katherine Taylor   | Easy     | Fall & Spring       | Great Teacher and very nice. Explains concepts very well and is patient. Lenient grader and she is always ready to help you succeed  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
@@ -17,7 +17,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Honors (HON)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
+| HON 1100      | First-Year Honors Colloquium   | None | Nicole Phillips    | Easy     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
@@ -27,7 +27,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Mathematics (MATH)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
+| MATH 1190      | Calculus I   | Pre-Calculus but subjective to SAT score | Sunny Kang    | Medium     | Fall & Spring       | Great Teacher for Calc 1. Homeworks are due at the end of the semester.  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
@@ -37,7 +37,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Computer Science (CS & CSE)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
+| CSE 1321      | Programming Problem Solving I   | None but CSE1300 Recommended if new to coding | Betty Kretlow    | Easy/Medium     | Fall & Spring       | Classes are open lecture. Very interesting teacher |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
@@ -47,7 +47,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Software Engineering (SWE)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
+| SWE 3313      | Intro to Software Engineering  | CSE 1322 | Jeff Adkisson    | Medium     | Fall & Spring       | Great Teacher for this class. Gives relevant information and very funny man. Project during the second half of the class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
 | ENGL 1101      | English Composition I   | None | Rochelle Harris Cox    | Medium     | Fall & Spring       | Great Teacher for Honors Class  |
