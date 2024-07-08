@@ -13,6 +13,8 @@ Some event dates have not been finalized so please check back as the semester go
 | Extreme Student Involvment Fair (Kennesaw)  | Aug 15 (Th) |
 | Academic Involvement Fair  | Aug 15 (Th) |
 | General Board Meeting I | TBD (August 20th or August 22nd) |
+| Fall Hackathon | TBD |
+| STEM Career Fair | TBD |
 | Labor Day Holiday  | September 2  |
 | Last Day to Withdraw  | October 25 |
 | Thanksgiving Break  | Nov 25 (M) – Dec 1 (Su)  |
