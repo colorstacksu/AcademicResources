@@ -1,4 +1,6 @@
-These are dates that have been qualified as important to members of ColorstackKSU 
+These are dates that have been qualified as important to members of Colorstack KSU.
+
+Some event dates have not been finalized so please check back as the semester goes on or look out for a post on instagram [@colorstackatksu](https://www.instagram.com/colorstackatksu/)
 
 # Fall 2024
 
