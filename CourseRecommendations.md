@@ -5,10 +5,10 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## General Education
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-|  ENGL 1101   |  English Composition I  | None |  Rochelle Harris Cox   |  Medium   | Fall & Spring       |  Great Teacher for Honors Class |
+|  ENGL 1101   |  English Composition I  | None |  Rochelle Harris Cox   |   <span style="background-color: red;"> Medium</span>  | Fall & Spring       |  Great Teacher for Honors Class |
 | COMM 1100      | Human Communication   | None | Gina Castle  | Easy     | Fall & Spring       | You can pass this class with your eyes closed. Final Exam is multiple choice and you get 2 tries  |
 | TCOM      | Technical Writing   | None | Katherine Taylor   | Easy     | Fall & Spring       | Great Teacher and very nice. Explains concepts very well and is patient. Lenient grader and she is always ready to help you succeed  |
-|       |   | None |     |     | Fall & Spring       |   |
+|   ART 1107    |  Art in Society  | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 
