@@ -17,7 +17,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Honors (HON)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| HON 1100      | First-Year Honors Colloquium   | None | Nicole Phillips    | Easy     | Fall & Spring       |   |
+| HON 1100      | First-Year Honors Colloquium   | None | Nicole Phillips    | Easy     | Fall & Spring       | The class itself is very easy and she is a very nice teacher. She is stright forward with expectations and is understanding once you communicate  |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
@@ -37,8 +37,8 @@ Here, you can find recommended courses and their respective lecturers for your m
 ## Computer Science (CS & CSE)
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
-| CSE 1321      | Programming Problem Solving I   | None but CSE1300 Recommended if new to coding | Betty Kretlow    | Easy/    | Fall & Spring       | Classes are open lecture. Very interesting teacher |
-|       |   | None |     |     | Fall & Spring       |   |
+| CSE 1321      | Programming Problem Solving I   | None but CSE1300 Recommended if new to coding | Betty Kretlow    | Easy   | Fall & Spring       | Classes are open lecture. Very interesting teacher |
+|   CS 3305    |  Data Structures | (MATH 2345 or CSE 2300) & (CSE 1322/L or MTRE 2610 or CPE 3000)  |   Sharon Perry |  Medium   | Fall & Spring       |  (ONLINE) The class is a difficult one but relative to other teachers, she makes it easier to get a good grade. You might even be able to get through the class without learning much but if you try hard enough you can. Most quizzes and tests are lockdown but assignments are open book and are full credit as long as you com|
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
