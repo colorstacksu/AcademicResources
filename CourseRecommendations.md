@@ -12,6 +12,8 @@ Here, you can find recommended courses and their respective lecturers for your m
 |  ENG 1101   | English Composition I  | None |  John Harvard   |  Easy   | Fall & Spring       | Loved the prof. Funny, lenient, very easy class.  |
 |   GEOG 1101    | Intro to Human Geography  | None |  Jason Rhodes   |  Easy  | Fall & Spring      | Good online class. Easy A and is understanding of mistakes. |
 |POLS 1101|American Government |None|Lee Jones|Easy|Fall & Spring|Super intersting prof. Class discussions were always stimulating. No lockdown or camera.|
+|ENLG 1102| English Composition II |ENGL 11O1|Danny Madore|Easy|Fall & Spring|Cute prof if that helps. Grade based on papers and discussion posts. Gives great feedback.|
+|GWST| Love and Sex |None|Natalia Meneses|Easy|Fall & Spring|Course content is super interesting. Attendance is mandatory, mini essay's every week, and exercise paper due every week too. The exercises were annoying and the readings were long but it was interesting. Enjoyed going to class!|
 
 
 
@@ -31,7 +33,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 | MATH 1190      | Calculus I   | Pre-Calculus but subjective to SAT score | Sunny Kang    |     | Fall & Spring       | Great Teacher for Calc 1. Homeworks are due at the end of the semester.  |
 |   MATH 1111 | College Algebra  | None |   Shahram Nazari  |  Easy   | Fall & Spring       | Very easy concepts. Take your own notes, goes through test questions. People give him bad reviews because they didnt put effort but got an A by just taking notes and listening.  |
 |  MATH 1113     | Precalculus  | College Algebra |  Ben Sloope   |  Easy   | Fall & Spring       | Amazing prof. He replaces a lot of the exam grades, gives you notes, and study guides that just like the test. Never really studied because of how well his class was structured.  |
-|       |   | None |     |     | Fall & Spring       |   |
+|    MATH 1190   |  Calculus I | College Algebra & Precalc |  Neda Yazdianpour   |   Easy  | Fall & Spring       | You take your own notes, so make sure to do that although she uploads her notes after class. 2hr class so be prepared for that. Easy class as long as you pay attention to her lecture, do you homework, and practice the test questions she goes over. |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 
@@ -49,7 +51,7 @@ Here, you can find recommended courses and their respective lecturers for your m
 | Course Number  | Course Name      | Prerequisites     | Professor      | Difficulty   | Semester(Fall, Spring, Summer) | Description     |
 |-----------------------------|------------------|---------------|-----------------|---------|------------------------|-----------------|
 | SWE 3313      | Intro to Software Engineering  | CSE 1322 | Jeff Adkisson    |     | Fall & Spring       | Great Teacher for this class. Gives relevant information and very funny man. Project during the second half of the class  |
-|       |   | None |     |     | Fall & Spring       |   |
+|   SWE 3313   |  Intro to Software Engineering | None |  CSE 1322  |  Lavanya Sekar   | Fall & Spring       | Got a B which is due to the bad group i got for the group project. Test are in person, multiple questions and short answer. Study frfr. Lenient prof if you befriend her.  |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
 |       |   | None |     |     | Fall & Spring       |   |
